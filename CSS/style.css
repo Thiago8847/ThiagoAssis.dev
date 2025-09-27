@@ -14,7 +14,6 @@
 }
 
 /* -------------------------------------------ICONES */
-
 .social-icons a {
     font-size: 40px;
     color: var(--cor5);
@@ -49,7 +48,6 @@ span {
 }
 
 /*---------------------------------------------BOTÃO PARA SUBIR PAGINA */
-
 #btnTopo {
     position: fixed;
     bottom: 20px;
@@ -66,7 +64,6 @@ span {
 }
   
 /*---------------------------------------------CABEÇALHO */
-
 header {
     padding: 15px 15px;
     background-color: var(--cor1);
@@ -199,7 +196,6 @@ header {
     height: auto;
     margin-right: 8px;
 }
-
 .cards-projetos {
   display: flex;
   justify-content: space-between;
@@ -524,7 +520,7 @@ button:hover {
     padding: 10px; 
     bottom: 0;
     width: 100%;
-  }
+}
 
 /* ------------------------------------------------------------------- */
 
@@ -564,7 +560,7 @@ button:hover {
     left: 0;
     width: 100%;
     padding: 10px 0;
-  }
+ }
 
 
 
